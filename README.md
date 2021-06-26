@@ -1,4 +1,4 @@
-![Banner](/images/coverPage.png)
+![Banner](/Images/coverPage.png)
 # Map4YouOfT
 Map 4 YouOfT, the map for all of your first-year problems. Map 4 YouOfT is a Geographic Information System that provides first-years with a simple yet elegant map to easily discover Toronto. By focusing our features on their needs and expectations, Map 4 YouOft aims to be like the friendly, welcoming and ever-present guide that everyone should have in their years at the University of Toronto.
 
@@ -49,24 +49,24 @@ For our initial "baseline" solution, we try starting at every possible depot(sta
 ## Screenshots
 | Main Screen  | Zoom-Levels |
 | ------------- | ------------- |
-| ![Main Screen](/images/mainScreen.png)  | ![Zoom-Levels](/images/zoomLevels.gif) |
+| ![Main Screen](/Images/mainScreen.png)  | ![Zoom-Levels](/Images/zoomLevels.gif) |
 
 | Changing Maps  | Night Mode |
 | ------------- | ------------- |
-| ![Changing Maps](/images/changingMaps.gif)  | ![Night Mode](/images/nightMode.png) |
+| ![Changing Maps](/Images/changingMaps.gif)  | ![Night Mode](/Images/nightMode.png) |
 
 | Path-Finding  | Directions |
 | ------------- | ------------- |
-| ![Path Finding](/images/pathFinding.gif)  | ![Directions](/images/directions.gif) |
+| ![Path Finding](/Images/pathFinding.gif)  | ![Directions](/Images/directions.gif) |
 
 | Search Bar: Streets  | Search Bar: Intersections |
 | ------------- | ------------- |
-| ![Searching Streets](/images/searchStreet.gif)  | ![Searching Intersections](/images/searchIntersection.gif) |
+| ![Searching Streets](/Images/searchStreet.gif)  | ![Searching Intersections](/Images/searchIntersection.gif) |
 
 | Search Bar: Points Of Interest  | Frosh Mode |
 | ------------- | ------------- |
-| ![Searching P.O.I.](/images/poiFinding.gif)  | ![Frosh Mode](/images/froshMode.gif) |
+| ![Searching P.O.I.](/Images/poiFinding.gif)  | ![Frosh Mode](/Images/froshMode.gif) |
 
 | Intersection Mode  | Feature Mode |
 | ------------- | ------------- |
-| ![Intersection Mode](/images/intersectionMode.gif)  | ![Feature Mode](/images/featureMode.gif) |
+| ![Intersection Mode](/Images/intersectionMode.gif)  | ![Feature Mode](/Images/featureMode.gif) |
